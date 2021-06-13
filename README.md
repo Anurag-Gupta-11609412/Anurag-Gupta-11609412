@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Gupta
 - 👀 I’m interested in projects regarding Data Science, DataAnalytics.
-- 🌱 I’m Working on my skills in python, Tableau,R language, Sql.
+- 🌱 I’m Working on my skills in Python, Tableau,R language, Sql.
 - 💞️ I’m looking to collaborate on software projects regarding datascience, IoT. 
 
 
